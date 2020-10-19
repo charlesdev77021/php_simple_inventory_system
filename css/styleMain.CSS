@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#body{
+    background-color: #2222;
+    width: 100%;
+
+}
+
+#painel-left{
+ width: 27%;
+ height: 700px;
+    
+}
+
+
+#db-Main{
+    width: 70%;
+    height: auto;
+    background-color: #2222;
+
+}

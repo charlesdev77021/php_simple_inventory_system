@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#body{
+    background-color: #2222;
+    width: 100%;
+
+}
+
+#painel{
+    width: 27%;
+    height: 500px;
+    
+}
+#painel-right{
+    width: 70%;
+    height: 500px;
+    
+}
